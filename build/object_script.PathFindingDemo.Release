@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\AStar.o
+./release\SysModule.o
+./release\MainWindow.o
+./release\Chip.o
+./release\GraphicsView.o
+./release\ViewHandler.o
+./release\moc_AStar.o
+./release\moc_MainWindow.o
+./release\moc_GraphicsView.o
+);

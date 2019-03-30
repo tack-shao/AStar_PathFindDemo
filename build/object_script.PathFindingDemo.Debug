@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\AStar.o
+./debug\SysModule.o
+./debug\MainWindow.o
+./debug\Chip.o
+./debug\GraphicsView.o
+./debug\ViewHandler.o
+./debug\moc_AStar.o
+./debug\moc_MainWindow.o
+./debug\moc_GraphicsView.o
+);
